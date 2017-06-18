@@ -1,0 +1,7 @@
+This folder has the code and data related to the WebScience Paper: Using Facebook Ads Audiences for Global Lifestyle Disease Surveillance: Promises and Limitations
+
+first_collection.csv.gz: has the data of the first collection we made
+second_collection.csv:  has the data of a more recent collection we made
+
+In the paper is clear that we compare them.
+
